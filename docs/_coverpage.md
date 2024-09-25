@@ -1,2 +1,6 @@
-# Ganeshpedia: a wiki entirely dedicated to ganesh and co.
-### Built by Orange Labs , Hosted and by Syrian Shake LLC <small>V:0.1A</small> 
+
+![logo](_media/icon.png)
+
+# Ganeshpedia  <small>  V:0.1A</small>
+
+> The future of ganesh memes
