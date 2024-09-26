@@ -6,9 +6,9 @@
 
 -GKR (abr. Ganesh Krishna Ramachandran)
 
--
+-Syrian Shake (Thank you Apple autocorrect)
 
--
+-Gonesh (Unknown Orgins.)
 
 ## Images of ganesh
 
