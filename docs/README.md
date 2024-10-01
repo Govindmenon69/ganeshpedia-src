@@ -13,7 +13,7 @@
 <img src="_media/ganeshgrab.png"  width="250" height="300">
 <img src="_media/ganesh_gangamstyle.png"  width="250" height="300">
 
-# Ganesh's orgin story
+# Ganesh's origin story
 
 Ganesh had always been different. Born into a modest family of Syrian descent, he grew up surrounded by the scent of spices and the warmth of home-cooked meals. His childhood was filled with laughter, love, and food—always food. But behind the joy and the comforting meals, Ganesh carried a quiet burden.
 
