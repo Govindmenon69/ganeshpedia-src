@@ -3,4 +3,4 @@
 
 # Ganeshpedia  <small>  V:0.1A</small>
 
-> The future of ganesh memes
+> The future of ganesh memes [adi likes earth]
