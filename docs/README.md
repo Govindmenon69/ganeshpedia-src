@@ -14,8 +14,8 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ## Images of Ganesh
 
-<img src="_media/ganeshgrab.png"  width="250" height="300">
-<img src="_media/ganesh_gangamstyle.png"  width="250" height="300">
+<img src="_media/ganeshgrab.png"  width="300" height="300">
+<img src="_media/ganesh_gangamstyle.png"  width="300" height="300">
 
 # Ganesh's origin story
 
@@ -59,10 +59,27 @@ With each ladoo he offered, Ganesh imparted wisdom about unity, generosity, and 
 
 In the end, Ganesh transformed into a revered Brahmin, embodying both the divine qualities of Lord Ganesha and the spirit of community through his love for ladoos. He taught that sweetness in life could be found not only in indulgence but also in knowledge, sharing, and the bonds formed through love and devotion. And thus, his legacy lived on, forever entwined with the ladoos that had once filled his days.
 
+# The Legendary Ladoo Consumption of Ganesh
 
+In the grand tapestry of Syrian leadership, few figures are as beloved as Ganesh, the rotund and jovial supreme leader, famed for his insatiable appetite for ladoos. As the sun rises over the bustling streets of Syria, Ganesh prepares for a day that can only be described as a sweet, sugary odyssey. It’s not just a few ladoos; it’s a staggering number that would make any confectionery proud.
 
+Each morning, Ganesh kicks off his day with a breakfast that can only be measured in millions. That’s right—millions! Picture this: as he rolls out of bed (and we mean roll, considering his size), he has a staggering 1.5 million ladoos waiting for him, lovingly prepared by his loyal bakers. These delightful treats, bursting with flavors of cardamom and ghee, are piled high like an edible mountain.
 
+By mid-morning, as Ganesh settles into his morning strategy session with his advisors, he casually downs another 750,000 ladoos. They say you can’t negotiate with an empty stomach, and Ganesh takes this advice to heart—after all, who wouldn’t want a ladoo in one hand and a policy proposal in the other?
 
+Lunchtime rolls around, and while most leaders might opt for a sensible salad, Ganesh goes all out. It’s time for an extravagant ladoo feast of an additional 2 million ladoos. Yes, you read that right! While his advisors attempt to discuss economic reforms, they’re often drowned out by the sound of Ganesh munching away, his cheeks stuffed like a chipmunk preparing for winter.
+
+As the sun begins to set, the evening brings yet another ladoo marathon. While most people are winding down for the day, Ganesh is just getting started with a dazzling display of 3 million ladoos for dinner. The dessert table looks like a ladoo wonderland, and he’s the king of this sugary realm, declaring it “Ladoo Independence Day” every single night.
+
+When the clock strikes midnight, while most are dreaming of sugarplums, Ganesh is still on his ladoo binge, finishing off a casual 500,000 ladoos as a midnight snack. It’s a sight to behold—Ganesh, surrounded by empty ladoo boxes, declaring, “Tomorrow, we conquer the world, one ladoo at a time!”
+
+In total, by the end of the day, Ganesh's ladoo consumption skyrockets to an outrageous 8 million ladoos. That’s right—8 million! With a laugh that shakes the very foundations of his palace, he wipes his sticky hands and proclaims, “If I’m going to lead Syria, I might as well do it with style and a full belly!”
+
+And so, the legend of Ganesh and his ladoos continues, with tales of his epic consumption spreading far and wide, inspiring bakers everywhere to push the limits of ladoo production. After all, in the grand world of sweets and leadership, Ganesh knows one simple truth: the bigger the belly, the larger the laugh!
+
+## Visual representation of ladoo eating rate
+
+[cinwell website](https://orangelabs.ddns.net/cdn/ladoo-counter.html ':include :type=iframe width=100% height=400px')
 
 
 
@@ -81,23 +98,23 @@ The people are :
 
 Raagul, a self-proclaimed gamer and FC Mobile enthusiast, adds a vibrant flair to the Ganeshpedia team. While he may not consider himself as nerdy as Anand, his passion for gaming is evident in his enthusiasm and creativity. Raagul's ability to connect with characters and experiences allows him to contribute engaging and relatable narratives that resonate with a broad audience.
 
-<img src="_media/BSRaagul.jpg"  width="250" height="300">
+<img src="_media/BSRaagul.jpg"  width="300" height="300">
 
 ## Anand R.
 
 Anand R. is the brainy strategist of the team, known for his exceptional skills in chess and his deep love for all things nerdy. With an analytical mind and a penchant for problem-solving, Anand brings a logical approach to the creative process. His passion for chess not only sharpens his strategic thinking but also inspires innovative ideas that infuse the Ganeshpedia narrative with depth and intrigue. Whether he’s analyzing chess moves or brainstorming plot twists, Anand's contributions are always insightful and thought-provoking.
 
-<img src="_media/AnandR.jpg"  width="250" height="300">
+<img src="_media/AnandR.jpg"  width="300" height="300">
 
 ## Nikhilesh Vijayakumar
 
 Nikhilesh, known for his vibrant personality and charisma, is an avid gamer and YouTuber with a quirky obsession for ice cream that is exactly six inches long. His love for gaming infuses the Ganeshpedia project with a fun and energetic spirit. Nikhilesh’s presence on social media amplifies the team's reach, as he shares their adventures with a growing audience of followers. His playful approach to storytelling, combined with his love for ice cream, often leads to hilarious and unexpected plot developments that keep readers engaged.
 
 
-<img src="_media/GTA.jpg"  width="250" height="300">
+<img src="_media/GTA.jpg"  width="300" height="300">
 
 ## Govind Sabitha Menon 
 
 At the heart of Ganeshpedia’s online presence is Govind Sabitha Menon, the talented developer and designer. With a keen eye for aesthetics and a knack for creating user-friendly interfaces, Govind ensures that Ganeshpedia is not only informative but also visually appealing. His technical expertise brings the team's creative visions to life, allowing for seamless navigation and an engaging user experience. Govind’s passion for design and development plays a crucial role in making Ganeshpedia a standout platform in the digital landscape.
 
-<img src="_media/gigagovind.png"  width="250" height="300">
+<img src="_media/gigagovind.png"  width="300" height="300">
