@@ -124,3 +124,4 @@ At the heart of Ganeshpedia’s online presence is Govind Sabitha Menon, the tal
 Kavin M is the brilliant co-developer behind Ganeshpedia, bringing his expertise and creativity to help shape this quirky and entertaining platform. With a knack for detail and a passion for crafting engaging content, Kavin works tirelessly to ensure every story, recipe, and anecdote about Ganesh comes to life in the most delightful way. His contributions add depth and humor to Ganeshpedia, making it the ultimate go-to resource for everything about Syria’s legendary ladoo-loving leader!
 
 <img src="_media/mj.png"  width="300" height="300">
+
