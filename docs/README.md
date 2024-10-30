@@ -17,7 +17,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <img src="_media/ganeshgrab.png"  width="300" height="300">
 <img src="_media/ganesh_gangamstyle.png"  width="300" height="300">
 
-# Ganesh's origin story
+## Ganesh's origin story
 
 
 
@@ -35,11 +35,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 * Now, Ganesh sits at the center of his community, much like the center of the universe for those around him. His restaurant, A3B, is a hub of connection, a place where people gather not just for food, but for the warmth and wisdom Ganesh offers. Through all his struggles, Ganesh found that his true gift wasn’t just in his cooking—it was in his ability to bring people together, to nourish not just their bodies but their souls.
 
-# Ganesh's religious matters
+## Ganesh's religious matters
 
 Ganesh, revered as a significant figure in spiritual practices, embodies the ideals of a Brahmin—a priestly class within Hindu society. This identity is characterized by deep spiritual knowledge, commitment to rituals, and a life dedicated to moral and ethical living. Ganesh's transformation into a Brahmin reflects the intertwining of the divine with the everyday, emphasizing the pursuit of wisdom and community service.
 
-## Ganesh's religious enlightening
+### Ganesh's religious enlightening
 
 Ganesh was famous throughout his village for one thing: his insatiable love for ladoos. Every day, he would rush to A3B, the local sweet shop, where he could devour an endless supply of these delicious confections. Round and golden, each ladoo was a delight that brought him immense joy. The villagers would chuckle as they watched him eat, often saying that he must be a reincarnation of Lord Ganesha himself, who was known for his fondness for sweets.
 
@@ -59,7 +59,7 @@ With each ladoo he offered, Ganesh imparted wisdom about unity, generosity, and 
 
 In the end, Ganesh transformed into a revered Brahmin, embodying both the divine qualities of Lord Ganesha and the spirit of community through his love for ladoos. He taught that sweetness in life could be found not only in indulgence but also in knowledge, sharing, and the bonds formed through love and devotion. And thus, his legacy lived on, forever entwined with the ladoos that had once filled his days.
 
-# The Legendary Ladoo Consumption of Ganesh
+## The Legendary Ladoo Consumption of Ganesh
 
 In the grand tapestry of Syrian leadership, few figures are as beloved as Ganesh, the rotund and jovial supreme leader, famed for his insatiable appetite for ladoos. As the sun rises over the bustling streets of Syria, Ganesh prepares for a day that can only be described as a sweet, sugary odyssey. It’s not just a few ladoos; it’s a staggering number that would make any confectionery proud.
 
@@ -77,11 +77,11 @@ In total, by the end of the day, Ganesh's ladoo consumption skyrockets to an out
 
 And so, the legend of Ganesh and his ladoos continues, with tales of his epic consumption spreading far and wide, inspiring bakers everywhere to push the limits of ladoo production. After all, in the grand world of sweets and leadership, Ganesh knows one simple truth: the bigger the belly, the larger the laugh!
 
-## Visual representation of ladoo eating rate
+### Visual representation of ladoo eating rate
 
 [ladoo-counter](https://orangelabs.ddns.net/cdn/ladoo-counter.html ':include :type=iframe width=100% height=400px')
 
-# Ganesh's Secretive Fitness Routine
+## Ganesh's Secretive Fitness Routine
 
 Ganesh's exercise routine is a closely guarded secret, known only to his closest advisors and bakers, and he fiercely protects it from prying eyes. To the public, he attributes his "vitality" to sheer devotion and an unparalleled ladoo diet, but insiders whisper of unusual, highly specialized moves conducted in the privacy of his palace chambers.
 
@@ -94,6 +94,79 @@ Finally, there’s talk of “The Lift of Supreme Balance”—an exercise where
 <img src="_media/ganeshexercise.gif"  width="480" height="320">
 
 <h6>[Above clip by Kavin Vignesh]</h6>
+
+# Secretive Syrian Software and Tech
+
+Listed below are few of the rare syrian tech and software either leaked from Syria or made with leaked document specifications.
+
+## GaneshOS : And It's Orgins
+
+GaneshOS began as a daring project by M. Kavin, who, after obtaining leaked documents, sought to lift the veil on Syria’s classified operating system architecture. Using these documents, Kavin meticulously reconstructed the OS to replicate the highly secure, state-level system that Ganesh and his inner circle reportedly used in secrecy. Kavin’s version, however, was intended not to guard secrets but to reveal the hidden workings of this elite system to the world.
+
+ Shorcuts:
+
+- PGup and PGdn will change the background 
+- UParrow DOWNarrow will change the background music volume
+- Password : dsp
+
+[GaneshOS](https://orangelabs.ddns.net/cdn/GaneshOS.html ':include :type=iframe width=100% height=400px')
+
+<h6>[Above project is courtesy of M Kavin]</h6>
+
+## LadooRUN : A Leaked Syrian Game
+
+"Ladoo Run" is a legendary leaked game that began as a top-secret project intended only for Ganesh’s inner circle. But once it escaped into the public domain, it became an underground sensation. In Ladoo Run, players take on the role of Ganesh himself, navigating through endless levels of tricky Syrian landscapes,
+
+Tutorial:
+
+- Click with mouse or Tap to jump
+- Survive or face the punishments (the meanings are yet unknown as its or secretive syrian nature)
+- Collect A3B and Ladoo , Dodge everything else!
+
+[LadooRUN](https://orangelabs.ddns.net/cdn/ladoo_run.html ':include :type=iframe width=100% height=400px')
+
+<h6>[Above project is courtesy of M Kavin]</h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
