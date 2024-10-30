@@ -79,7 +79,24 @@ And so, the legend of Ganesh and his ladoos continues, with tales of his epic co
 
 ## Visual representation of ladoo eating rate
 
-[cinwell website](https://orangelabs.ddns.net/cdn/ladoo-counter.html ':include :type=iframe width=100% height=400px')
+[ladoo-counter](https://orangelabs.ddns.net/cdn/ladoo-counter.html ':include :type=iframe width=100% height=400px')
+
+# Ganesh's Secretive Fitness Routine
+
+Ganesh's exercise routine is a closely guarded secret, known only to his closest advisors and bakers, and he fiercely protects it from prying eyes. To the public, he attributes his "vitality" to sheer devotion and an unparalleled ladoo diet, but insiders whisper of unusual, highly specialized moves conducted in the privacy of his palace chambers.
+
+It’s rumored that Ganesh begins each session with “The Quiet Reach”—a slow, meditative stretch aimed at ladoos placed at various heights, strengthening his arm muscles while subtly practicing focus and self-control. Following this, he supposedly performs “The Silent March,” a pacing ritual that looks simple to the untrained eye but, according to Ganesh, is a powerful cardiovascular exercise as he strides from one end of his study to the other, pondering the universe with a ladoo in hand.
+
+Finally, there’s talk of “The Lift of Supreme Balance”—an exercise where he lifts a heavy, ornate tray of ladoos without taking a single bite, honing his legendary restraint and inner strength. Those who’ve caught glimpses say he concludes each secret session with a satisfied sigh, placing the tray back down untouched... only to “recover” from the workout by finishing a few ladoos afterward, as a reward for his discipline.
+
+> This is an old video of Ganesh exercising as he is very secretive about it
+
+<img src="_media/ganeshexercise.gif"  width="480" height="320">
+
+
+
+
+
 
 
 
