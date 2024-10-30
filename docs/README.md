@@ -93,6 +93,8 @@ Finally, there’s talk of “The Lift of Supreme Balance”—an exercise where
 
 <img src="_media/ganeshexercise.gif"  width="480" height="320">
 
+<h6>[Above clip by Kavin Vignesh]</h6>
+
 
 
 
@@ -110,6 +112,12 @@ The people are :
 - Anand R.
 - Nikhilesh Vijayakumar
 - Govind Sabitha Menon
+
+Special Thanks to :
+
+- Kavin Vignesh [For providing certain clips]
+
+- Prithvi B Manica [For providing certain clips]
 
 ## Raagul Balasubramanian Shobana
 
