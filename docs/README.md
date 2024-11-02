@@ -259,6 +259,7 @@ The authors and maintainers of Ganeshpedia are a vibrant team of creative minds 
 - Anand R.
 - Nikhilesh Vijayakumar
 - Govind Sabitha Menon
+- Kavin M
 
 <ins>Special Thanks to :</ins>
 
