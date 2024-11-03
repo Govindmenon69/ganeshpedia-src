@@ -207,9 +207,9 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <img src="_media/mk2.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of M Kavin]</h6>
 
-## Shanmugamakash Rajaravishankar
+## Shanmugamakash Rajaravisankar
 
- * Shanmugamakash Rajaravishankar, known for his vibrant personality, has an affinity for tea and a particular fondness for an energy drink called STING. Now based in Texas, he has transitioned from his entrepreneurial roots in India to create a unique niche for himself in the American market. With a knack for distribution, he’s become known for providing popular products like Boomer chewing gum, adding a playful touch to his business endeavors. His reputation, however, has been fueled by the more controversial aspects of his past ventures, which included the distribution of Erythroxylum and cocaine on a large scale. While these elements add intrigue to his character, Shanmugamakash remains a dynamic figure, often sharing stories over a cup of tea, showcasing his lighter side amidst the complexities of his business journey. His friends appreciate his humor and charisma, making him an unforgettable part of Ganesh's world.
+ * Shanmugamakash Rajaravisankar, known for his vibrant personality, has an affinity for tea and a particular fondness for an energy drink called STING. Now based in Texas, he has transitioned from his entrepreneurial roots in India to create a unique niche for himself in the American market. With a knack for distribution, he’s become known for providing popular products like Boomer chewing gum, adding a playful touch to his business endeavors. His reputation, however, has been fueled by the more controversial aspects of his past ventures, which included the distribution of Erythroxylum and cocaine on a large scale. While these elements add intrigue to his character, Shanmugamakash remains a dynamic figure, often sharing stories over a cup of tea, showcasing his lighter side amidst the complexities of his business journey. His friends appreciate his humor and charisma, making him an unforgettable part of Ganesh's world.
 
 <img src="_media/tea.gif"  width="480" height="320">
 <h6>[Above image is courtesy of Kavin Vignesh and M Kavin]</h6>
