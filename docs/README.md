@@ -120,6 +120,8 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 [GaneshOS](https://orangelabs.ddns.net/cdn/GaneshOS.html ':include :type=iframe width=100% height=400px')
 
+[button url="https;//orangelabs.ddns.net/cdn/GaneshOS.html"]
+
 <h6>[Above project is courtesy of M Kavin]</h6>
 
 ## LadooRUN : A Leaked Syrian Game
