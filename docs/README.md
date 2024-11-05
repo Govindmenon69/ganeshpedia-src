@@ -118,7 +118,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - UParrow DOWNarrow will change the background music volume
 - Password : dsp
 
-[GaneshOS](https://orangelabs.ddns.net/cdn/GaneshOS.html ':include :type=iframe width=100% height=400px')
+[GaneshOS](https://orangelabs.ddns.net/cdn/GaneshOS.html ':include :type=iframe width=640px height=360px')
 
 [Experience GaneshOS fully](https://orangelabs.ddns.net/cdn/GaneshOS.html)
 
@@ -134,7 +134,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - Survive or face the punishments (the meanings are yet unknown as its or secretive syrian nature)
 - Collect A3B and Ladoo , Dodge everything else!
 
-[LadooRUN](https://orangelabs.ddns.net/cdn/ladoo_run.html ':include :type=iframe width=100% height=400px')
+[LadooRUN](https://orangelabs.ddns.net/cdn/ladoo_run.html ':include :type=iframe width=480px height=360px')
 
 [Experience LadooRUN fully](https://orangelabs.ddns.net/cdn/ladoo_run.html)
 
