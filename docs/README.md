@@ -157,7 +157,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 ## PS5 Ganesh Edition
 
 <img src="_media/ps5_ganesh.png" width="480" height="320">
-* Accessories for PS5 Ganesh Edition
+- Accessories for PS5 Ganesh Edition
 <img src="_media/ps5_ganesh_accessories.png" width="480" height="320">
 
 h6>[Above Images is courtesy of M Kavin]</h6>
