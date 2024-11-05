@@ -11,6 +11,10 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - GKR (abr. Ganesh Krishna Ramachandran)
 - Syrian Shake (Thank you Apple autocorrect)
 - Gonesh (Unknown Orgins.)
+- DSP (Dedicated Syria புருஷன்)
+- Gundesh (Gundu + Ganesh)
+- Syrian President
+- A3B CEO
 
 ## Images of Ganesh
 
@@ -150,6 +154,14 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above project is courtesy of M Kavin]</h6>
 
+## PS5 Ganesh Edition
+
+<img src="_media/ps5_ganesh.png" width="480" height="320">
+- Accessories for PS5 Ganesh Edition
+<img src="_media/ps5_ganesh_accessories.png" width="480" height="320">
+
+<h6>[Above Images is courtesy of M Kavin]</h6>
+
 # Ganesh's Loyal Friend Group
 
 * Ganesh’s circle of friends is as lively and varied as his love for ladoos. Among his closest companions are Anand R., a chess whiz and strategist who offers insights beyond the board, and Raagul Balasubramanian Shobana, whose humor and mobile gaming skills keep Ganesh entertained through even the busiest days. Then there’s Nikhilesh Vijayakumar, a passionate gamer and YouTuber with a precise taste for six-inch-long ice cream, making him the group’s unofficial dessert connoisseur. Govind Sabitha Menon, the developer and designer of Ganeshpedia, rounds out the team with his dedication to capturing every detail of Ganesh’s life.
@@ -161,6 +173,8 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 ## Anand R.
 
 * Anand R., a chess enthusiast with a passion for precision, is as much a tactician in life as he is on the board. Growing up, he spent countless hours honing his analytical skills, developing a keen eye for detail and strategy. Known for his calm and methodical nature, Anand can often be found dissecting complex problems or navigating challenges with the same patience and foresight that define his chess game. Outside of his intellectual pursuits, Anand has a curious side—often dabbling in puzzles, logic games, and the occasional trivia battle with his friends. His close friendship with Ganesh means he occasionally offers insights and perspectives on life’s “moves,” guiding his companions with a steady, reliable hand. A loyal friend and a relentless thinker, Anand brings balance, intellect, and a touch of curiosity to Ganesh’s inner circle.
+* lichess.org: https://lichess.org/@/anandloks
+* chess.com: https://www.chess.com/member/anandloks
 
 <img src="_media/AnandR2.jpg"  width="480" height="320">
 
@@ -174,7 +188,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ## Raagul Balasubramanian Shobana
 
-* Raagul Balasubramanian Shobana brings both humor and intellect to Ganesh’s inner circle. A self-proclaimed nerd with a curious mind, he’s fascinated by science, often diving deep into the latest discoveries and theories. Known for his quick wit, Raagul balances his love for learning with his passion for FC Mobile, where he’s a formidable player with impressive skills. His friends admire his blend of humor and intelligence, as Raagul has a way of making even the most complex topics sound exciting and funny. His unique mix of curiosity, gaming expertise, and clever commentary adds an energetic and light-hearted vibe to Ganesh’s crew.
+* Raagul Balasubramanian Shobana brings both humor and intellect to Ganesh’s inner circle. He is known for his love of JAM. A self-proclaimed nerd with a curious mind, he’s fascinated by science, often diving deep into the latest discoveries and theories. Known for his quick wit, Raagul balances his love for learning with his passion for FC Mobile, where he’s a formidable player with impressive skills. His friends admire his blend of humor and intelligence, as Raagul has a way of making even the most complex topics sound exciting and funny. His unique mix of curiosity, gaming expertise, and clever commentary adds an energetic and light-hearted vibe to Ganesh’s crew.
 
 <img src="_media/bs2.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
@@ -210,6 +224,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 ## Niranjan Vijayan
 
 * Niranjan Vijayan is a charming presence in Ganesh's circle, known for his romantic spirit and flair for making meaningful connections. A passionate Free Fire player, he skillfully navigates both the virtual battlegrounds and the complexities of romance, often drawing parallels between strategic gameplay and the art of wooing. Currently living in the US, Niranjan embraces his new surroundings while staying connected to his roots and friends back home. His romantic gestures and heartfelt expressions make him a beloved figure among his peers, proving that even in the world of gaming, there’s always room for love and connection. Whether he's sharing stories of his gaming adventures or planning a thoughtful surprise for someone special, Niranjan embodies the idea that love can thrive in any environment.
+
 
 <img src="_media/avn.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
