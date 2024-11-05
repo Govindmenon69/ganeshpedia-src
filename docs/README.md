@@ -225,6 +225,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 * Niranjan Vijayan is a charming presence in Ganesh's circle, known for his romantic spirit and flair for making meaningful connections. A passionate Free Fire player, he skillfully navigates both the virtual battlegrounds and the complexities of romance, often drawing parallels between strategic gameplay and the art of wooing. Currently living in the US, Niranjan embraces his new surroundings while staying connected to his roots and friends back home. His romantic gestures and heartfelt expressions make him a beloved figure among his peers, proving that even in the world of gaming, there’s always room for love and connection. Whether he's sharing stories of his gaming adventures or planning a thoughtful surprise for someone special, Niranjan embodies the idea that love can thrive in any environment.
 
+
 <img src="_media/avn.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
 
