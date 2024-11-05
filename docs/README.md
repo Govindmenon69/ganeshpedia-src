@@ -11,6 +11,10 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - GKR (abr. Ganesh Krishna Ramachandran)
 - Syrian Shake (Thank you Apple autocorrect)
 - Gonesh (Unknown Orgins.)
+- DSP (Dedicated Syria புருஷன்)
+- Gundesh (Gundu + Ganesh)
+- Syrian President
+- A3B CEO
 
 ## Images of Ganesh
 
@@ -149,6 +153,14 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 
 <h6>[Above project is courtesy of M Kavin]</h6>
+
+## PS5 Ganesh Edition
+
+<img src="_media/ps5_ganesh.png" width="480" height="320">
+* Accessories for PS5 Ganesh Edition
+<img src="_media/ps5_ganesh_accessories.png" width="480" height="320">
+
+h6>[Above Images is courtesy of M Kavin]</h6>
 
 # Ganesh's Loyal Friend Group
 
