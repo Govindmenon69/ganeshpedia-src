@@ -258,6 +258,8 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 The authors and maintainers of Ganeshpedia are a vibrant team of creative minds and storytellers passionate about chronicling the life and experiences of Ganesh, the beloved and larger-than-life supreme leader of Syria. With a unique blend of humor, insight, and cultural commentary, they delve into Ganesh's journey, exploring his whimsical nature, love for ladoos, and the impact of his leadership on his people. Through collaborative efforts, they aim to provide readers with a comprehensive and entertaining exploration of Ganesh’s world, celebrating both his quirks and wisdom. Their commitment to sharing this narrative fosters a deeper understanding of the character and the rich tapestry of stories that surround him, making Ganeshpedia a delightful destination for those curious about this extraordinary figure.
 
+> GaneshPedia is hosted by Orange Labs GROUP.
+
 <ins>The people are :</ins>
 
 - Raagul Balasubramanian Shobana
@@ -302,3 +304,62 @@ Kavin M is the brilliant co-developer behind Ganeshpedia, bringing his expertise
 
 <img src="_media/mj.png"  width="300" height="300">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h6>&copy; 2024 Orange Labs GROUP , All rights reserved under the CC-BY-NC license <h6>
