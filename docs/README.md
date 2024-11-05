@@ -19,6 +19,15 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above images is courtesy of Govind Menon]</h6>
 
+## GIFs of Ganesh
+
+<img src="_media/rgb.gif" width="300" height="300">
+<img src="_media/dsp.gif" width="300" height="300">
+<img src="_media/a2b.gif" width="300" height="300">
+
+<h6>[Above GIFs is courtesy of Kavin M]</h6>
+
+
 ## Ganesh's origin story
 
 
