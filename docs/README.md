@@ -157,10 +157,10 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 ## PS5 Ganesh Edition
 
 <img src="_media/ps5_ganesh.png" width="480" height="320">
-- Accessories for PS5 Ganesh Edition
+ * Accessories for PS5 Ganesh Edition
 <img src="_media/ps5_ganesh_accessories.png" width="480" height="320">
 
-h6>[Above Images is courtesy of M Kavin]</h6>
+<h6>[Above Images is courtesy of M Kavin]</h6>
 
 # Ganesh's Loyal Friend Group
 
@@ -186,7 +186,7 @@ h6>[Above Images is courtesy of M Kavin]</h6>
 
 ## Raagul Balasubramanian Shobana
 
-* Raagul Balasubramanian Shobana brings both humor and intellect to Ganesh’s inner circle. A self-proclaimed nerd with a curious mind, he’s fascinated by science, often diving deep into the latest discoveries and theories. Known for his quick wit, Raagul balances his love for learning with his passion for FC Mobile, where he’s a formidable player with impressive skills. His friends admire his blend of humor and intelligence, as Raagul has a way of making even the most complex topics sound exciting and funny. His unique mix of curiosity, gaming expertise, and clever commentary adds an energetic and light-hearted vibe to Ganesh’s crew.
+* Raagul Balasubramanian Shobana brings both humor and intellect to Ganesh’s inner circle. He is known for his love of JAM. A self-proclaimed nerd with a curious mind, he’s fascinated by science, often diving deep into the latest discoveries and theories. Known for his quick wit, Raagul balances his love for learning with his passion for FC Mobile, where he’s a formidable player with impressive skills. His friends admire his blend of humor and intelligence, as Raagul has a way of making even the most complex topics sound exciting and funny. His unique mix of curiosity, gaming expertise, and clever commentary adds an energetic and light-hearted vibe to Ganesh’s crew.
 
 <img src="_media/bs2.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
