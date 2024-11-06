@@ -154,13 +154,18 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above project is courtesy of M Kavin]</h6>
 
-## PS5 Ganesh Edition
-
+## Gaming Consoles Ganesh Edition
+- PS5 Ganesh Edition
 <img src="_media/ps5_ganesh.png" width="480" height="320">
+
 - Accessories for PS5 Ganesh Edition
+  
 <img src="_media/ps5_ganesh_accessories.png" width="480" height="320">
 
-<h6>[Above Images is courtesy of M Kavin]</h6>
+- Xbox Logo Ganesh Version
+  
+<img src="_media/xbox_ganesh_version.png" width="300" height="300">
+<h6>[Above Images are courtesy of M Kavin]</h6>
 
 # Ganesh's Loyal Friend Group
 
