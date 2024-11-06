@@ -248,6 +248,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <img src="_media/tea.gif"  width="480" height="320">
 <h6>[Above image is courtesy of Kavin Vignesh and M Kavin]</h6>
 
+## Harsh Premkumar
+
+ * Harsh Premkumar, affectionately called "Chintu," is a well-known figure at school, especially for his love of the letter "P" — a preference with personal significance. Despite his modest height, standing just over 5 feet, Chintu has made a big impression, particularly among his female classmates. A phenomenal football player, he's celebrated for his impressive dribbling skills and his knack for scoring stunning goals. Chintu's charm and talents make him both popular and unforgettable.
+
+<img src="_media/harsh_p.png"  width="480" height="320">
 
 
 
