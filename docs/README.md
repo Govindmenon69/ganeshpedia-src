@@ -163,7 +163,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <img src="_media/ps5_ganesh.png" width="480" height="320">
 
 - Accessories for PS5 Ganesh Edition
-- 
+
 <img src="_media/ps5_ganesh_accessories.png" width="480" height="320">
 
 
@@ -172,6 +172,9 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 ### Xbox Logo Ganesh Version
   
 <img src="_media/xbox_ganesh_version.png" width="300" height="300">
+
+- In a legendary but short-lived partnership, Ganesh himself struck a deal with Microsoft to create a unique Xbox logo for his universe. This logo, blending the sleek design of the Xbox with Ganesh's unmistakable ladoo imagery, was intended as a tribute to his love for gaming and, of course, ladoos. The partnership was set to launch with much fanfare, with promotional events and even a Ganesh-themed Xbox console in the works. However, things took a funny twist when Ganesh reportedly demanded the logo include "more ladoo essence," which led to multiple redesigns that kept pushing the limits of Microsoft’s creativity—and patience. Rumor has it that Ganesh’s insistence on adding a ladoo-warming feature to the Xbox itself was the final straw. After a series of misunderstandings and increasingly bizarre modifications, the project was quietly shelved, leaving fans amused and speculating over what might have been. The Ganesh-Xbox logo remains a cult symbol, capturing the spirit of Ganesh’s bold but often unconventional ideas.
+
 
 <h6>[Above Image is courtesy of M Kavin]</h6>
 
