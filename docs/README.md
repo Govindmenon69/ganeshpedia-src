@@ -115,7 +115,37 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <img src="_media/ganeshexercise.gif"  width="480" height="320">
 
-<h6>[Above clip by Kavin Vignesh]</h6>
+<h6>[Above clip is courtesy of Kavin Vignesh]</h6>
+
+## Ganesh The Defender Of Syria
+
+* Ganesh’s training with weapons is not just a skill—it’s a duty. He believes that by mastering firearms and weaponry, he strengthens both his spirit and his body, equipping himself to protect Syria and his people. Under the guidance of Syrian defense experts, Ganesh took on intense training regimens, mastering everything from traditional firearms to advanced defense techniques, viewing each exercise as both a mental and physical discipline.
+
+* Using his weapons training as a means to fortify Syria, Ganesh sees himself as the nation’s ultimate guardian. For him, wielding weapons is not about power, but about purpose: a way to defend his homeland with strength and resilience. This dedication has made Ganesh not just a leader, but a protector—one who embraces the balance between power and wisdom in his quest to safeguard Syria’s future.
+
+> Find below Ganesh showing his skills with a toy gun.
+
+<img src="_media/ganeshgun.gif"  width="480" height="320">
+
+<h6>[Above clip courtesy of Kavin Vignesh]</h6>
+
+## Ganesh's Enigmatic "Love" Life
+
+* Despite his “gravitational charm” and the magnetic aura that draws people in, Ganesh’s heart has always belonged solely to Syria. Though his quiet charisma and mystery have inspired admiration from many, Ganesh remains unwavering in his dedication to his country. For him, Syria is not just a homeland but a deep, lifelong love that surpasses all others. Every decision, every sacrifice, and even his intense weapons training is in service to Syria’s future and well-being.
+
+* Even as stories of his allure circulate, Ganesh’s one true commitment is clear. His devotion to Syria is more than patriotic—it’s a powerful, guiding force in his life. To him, no love can compete with the bond he feels for his people and his land, making him as steadfast in his loyalty as he is enigmatic in character.
+
+> Find below Ganesh demonstrating his "Gravitational Rizz"
+
+<img src="_media/ganeshreact.gif" width="480" height="300">
+
+<h6>[Above clip is courtesy of Kavin Vignesh]</h6>
+
+> Find below Ganesh's gravitational field attracting an induvidual
+
+<img src="_media/ganeshglasses.png" width="480" height="300">
+
+<h6>[Above image is courtesy of Kavin Vignesh]</h6>
 
 # Secretive Syrian Software and Tech
 
@@ -147,10 +177,13 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - Survive or face the punishments (the meanings are yet unknown as its or secretive syrian nature)
 - Collect A3B and Ladoo , Dodge everything else!
 
-[LadooRUN](https://orangelabs.ddns.net/cdn/ladoo_run.html ':include :type=iframe width=480px height=360px')
+[LadooRUN](https://orangelabs.ddns.net/cdn/ladoo_run.html ':include :type=iframe width=640px height=360px')
 
 [Experience LadooRUN fully](https://orangelabs.ddns.net/cdn/ladoo_run.html)
 
+> here find LadooRUN V2 :
+
+[Experience LadooRUN V2 fully](https://orangelabs.ddns.net/cdn/ladoo_run-2.html)
 
 <h6>[Above project is courtesy of M Kavin]</h6>
 
@@ -171,7 +204,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ### Xbox Logo Ganesh Version
   
-<img src="_media/xbox_ganesh_version.png" width="300" height="300">
+<img src="_media/xbox_ganesh_version.png" width="480" height="300">
 
 - In a legendary but short-lived partnership, Ganesh himself struck a deal with Microsoft to create a unique Xbox logo for his universe. This logo, blending the sleek design of the Xbox with Ganesh's unmistakable ladoo imagery, was intended as a tribute to his love for gaming and, of course, ladoos. The partnership was set to launch with much fanfare, with promotional events and even a Ganesh-themed Xbox console in the works. However, things took a funny twist when Ganesh reportedly demanded the logo include "more ladoo essence," which led to multiple redesigns that kept pushing the limits of Microsoft’s creativity—and patience. Rumor has it that Ganesh’s insistence on adding a ladoo-warming feature to the Xbox itself was the final straw. After a series of misunderstandings and increasingly bizarre modifications, the project was quietly shelved, leaving fans amused and speculating over what might have been. The Ganesh-Xbox logo remains a cult symbol, capturing the spirit of Ganesh’s bold but often unconventional ideas.
 
@@ -188,11 +221,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ## Anand R.
 
-* Anand R., a chess enthusiast with a passion for precision, is as much a tactician in life as he is on the board. Growing up, he spent countless hours honing his analytical skills, developing a keen eye for detail and strategy. Known for his calm and methodical nature, Anand can often be found dissecting complex problems or navigating challenges with the same patience and foresight that define his chess game. Outside of his intellectual pursuits, Anand has a curious side—often dabbling in puzzles, logic games, and the occasional trivia battle with his friends. His close friendship with Ganesh means he occasionally offers insights and perspectives on life’s “moves,” guiding his companions with a steady, reliable hand. A loyal friend and a relentless thinker, Anand brings balance, intellect, and a touch of curiosity to Ganesh’s inner circle.
+* Anand R., a chess enthusiast with a passion for precision, is as much a tactician in life as he is on the board. Growing up, he spent countless hours honing his analytical skills even accomplishing the rating of 1552 : Rapid and 1469 : Std in FIDE, developing a keen eye for detail and strategy. Known for his calm and methodical nature, Anand can often be found dissecting complex problems or navigating challenges with the same patience and foresight that define his chess game. Outside of his intellectual pursuits, Anand has a curious side—often dabbling in puzzles, logic games, and the occasional trivia battle with his friends. His close friendship with Ganesh means he occasionally offers insights and perspectives on life’s “moves,” guiding his companions with a steady, reliable hand. A loyal friend and a relentless thinker, Anand brings balance, intellect, and a touch of curiosity to Ganesh’s inner circle.
 
-* lichess.org: https://lichess.org/@/anandloks
+* <ins>LICHESS : https://lichess.org/@/anandloks</ins>
 
-* chess.com: https://www.chess.com/member/anandloks
+* <ins>CHESS.COM : https://www.chess.com/member/anandloks</ins>
 
 <img src="_media/AnandR2.jpg"  width="480" height="320">
 
@@ -243,6 +276,9 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 * Niranjan Vijayan is a charming presence in Ganesh's circle, known for his romantic spirit and flair for making meaningful connections. A passionate Free Fire player, he skillfully navigates both the virtual battlegrounds and the complexities of romance, often drawing parallels between strategic gameplay and the art of wooing. Currently living in the US, Niranjan embraces his new surroundings while staying connected to his roots and friends back home. His romantic gestures and heartfelt expressions make him a beloved figure among his peers, proving that even in the world of gaming, there’s always room for love and connection. Whether he's sharing stories of his gaming adventures or planning a thoughtful surprise for someone special, Niranjan embodies the idea that love can thrive in any environment.
 
+### Niranjan's Famous Audio Recording:
+
+[GaneshOS](https://ganeshpedia.ddns.net/_media/uwu.mp3 ':include :type=iframe width=100px height=200px')
 
 <img src="_media/avn.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
@@ -266,6 +302,12 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
  * Harsh Premkumar, affectionately called "Chintu," is a well-known figure at school, especially for his love of the letter "P" — a preference with personal significance. Despite his modest height, standing just over 5 feet, Chintu has made a big impression, particularly among his female classmates. A phenomenal football player, he's celebrated for his impressive dribbling skills and his knack for scoring stunning goals. Chintu's charm and talents make him both popular and unforgettable.
 
 <img src="_media/harsh_p.png"  width="480" height="320">
+
+## Prithvi B Manica
+
+ * Prithvi B Manica brings a unique blend of devotion and creativity to everything he does. Known for his love of movies, he’s often found assisting Kavin in crafting their latest film projects, adding his own flair and insights to each scene. Beyond his passion for cinema, Prithvi has a deep-rooted appreciation for traditional rituals and enjoys performing pooja, embracing his spirituality with enthusiasm. His fair complexion, often humorously referenced by friends, only adds to his distinctive presence in their circle. Prithvi is a valued friend and collaborator, seamlessly balancing his artistic passions with his reverence for tradition.
+
+<img src="_media/ptv.jpg"  width="480" height="320">
 
 
 

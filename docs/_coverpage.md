@@ -1,6 +1,6 @@
 
 ![logo](_media/ganeshpedia_logo.png)
 
-# Ganeshpedia  <small>  V:0.4A</small>
+# Ganeshpedia  <small>  V:0.5A</small>
 
-> The future of ganesh memes 
+> Empowering change , One Ganesh meme at a time! 
