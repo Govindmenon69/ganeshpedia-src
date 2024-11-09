@@ -10,7 +10,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 - GKR (abr. Ganesh Krishna Ramachandran)
 - Syrian Shake (Thank you Apple autocorrect)
-- Gonesh (Unknown Orgins.)
+- Gonesh (A result of an A2B skit done in school)
 - DSP (Dedicated Syria புருஷன்)
 - Gundesh (Gundu + Ganesh)
 - Syrian President
