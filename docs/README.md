@@ -10,7 +10,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 - GKR (abr. Ganesh Krishna Ramachandran)
 - Syrian Shake (Thank you Apple autocorrect)
-- Gonesh (A result of an A2B skit done in school)
+- Gonesh (Unknown Orgins.)
 - DSP (Dedicated Syria புருஷன்)
 - Gundesh (Gundu + Ganesh)
 - Syrian President
@@ -52,7 +52,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ## Ganesh's religious matters
 
- * Ganesh, revered as a significant figure in spiritual practices, embodies the ideals of a Brahmin—a priestly class within Hindu society. This identity is characterized by deep spiritual knowledge, commitment to rituals, and a life dedicated to moral and ethical living. Ganesh's transformation into a Brahmin reflects the intertwining of the divine with the everyday, emphasizing the pursuit of wisdom and community service.
+ * Ganesh, revered as a significant figure in spiritual practices, embodies the ideals of a Syrian This identity is characterized by deep spiritual knowledge, commitment to rituals, and a life dedicated to moral and ethical living. Ganesh's transformation into a Syrian reflects the intertwining of the divine with the everyday, emphasizing the pursuit of wisdom and community service.
 
 ### Ganesh's religious enlightening
 
@@ -62,17 +62,17 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
  * In the dream, the deity looked down at Ganesh and said, “You love these ladoos, but they are not just for your pleasure. They symbolize the sweetness of life, the essence of knowledge, and the joy of sharing with others. To truly honor this love, you must seek to understand the world beyond these treats.”
 
- * Ganesh awoke with a start, the message resonating deep within him. He realized that his love for ladoos could become a pathway to something greater—a calling to explore spirituality and knowledge. Determined to honor the teachings of his dream, he sought out the village Brahmin, who was revered for his wisdom and understanding of the Vedas.
+ * Ganesh awoke with a start, the message resonating deep within him. He realized that his love for ladoos could become a pathway to something greater—a calling to explore spirituality and knowledge. Determined to honor the teachings of his dream, he sought out the village Syrian, who was revered for his wisdom and understanding of the Vedas.
 
- * “Please, wise Brahmin, teach me about the deeper meaning of life,” Ganesh pleaded, “so I can understand the true essence of the ladoos I love so much.” The Brahmin, amused by the lad's earnestness and his singular devotion to sweets, agreed to take him under his wing.
+ * “Please, wise Syrian, teach me about the deeper meaning of life,” Ganesh pleaded, “so I can understand the true essence of the ladoos I love so much.” The Syrian, amused by the lad's earnestness and his singular devotion to sweets, agreed to take him under his wing.
 
- * Under the Brahmin's guidance, Ganesh began to learn about rituals, meditation, and the importance of balance in life. He discovered that ladoos were not just confections but sacred offerings, symbolizing prosperity, joy, and the sweet rewards of devotion. Each day, he would prepare ladoos as offerings in his rituals, chanting prayers and invoking blessings not just for himself but for the whole village.
+ * Under the Syrian's guidance, Ganesh began to learn about rituals, meditation, and the importance of balance in life. He discovered that ladoos were not just confections but sacred offerings, symbolizing prosperity, joy, and the sweet rewards of devotion. Each day, he would prepare ladoos as offerings in his rituals, chanting prayers and invoking blessings not just for himself but for the whole village.
 
  * As time passed, Ganesh transformed. His once carefree indulgence became a disciplined practice. He embraced fasting and offered ladoos during special ceremonies, sharing them with the community as prasadam (blessed food) to bring joy and spiritual nourishment to all. The villagers began to see him not just as the sweet-loving boy they once knew but as a spiritual guide who understood the significance behind his beloved treats.
 
  * With each ladoo he offered, Ganesh imparted wisdom about unity, generosity, and the sweetness of life’s journey. His singular love for ladoos became a vehicle for connection, teaching the villagers to appreciate life’s simple joys while also pursuing a deeper understanding of themselves.
 
- * In the end, Ganesh transformed into a revered Brahmin, embodying both the divine qualities of Lord Ganesha and the spirit of community through his love for ladoos. He taught that sweetness in life could be found not only in indulgence but also in knowledge, sharing, and the bonds formed through love and devotion. And thus, his legacy lived on, forever entwined with the ladoos that had once filled his days.
+ * In the end, Ganesh transformed into a revered Syrian, embodying both the divine qualities of Lord Ganesha and the spirit of community through his love for ladoos. He taught that sweetness in life could be found not only in indulgence but also in knowledge, sharing, and the bonds formed through love and devotion. And thus, his legacy lived on, forever entwined with the ladoos that had once filled his days.
 
  > Find below Ganesh preaching 
 
