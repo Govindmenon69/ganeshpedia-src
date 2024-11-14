@@ -101,7 +101,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ### Visual representation of ladoo eating rate
 
-[ladoo-counter](https://orangelabs.ddns.net/cdn/ladoo-counter.html ':include :type=iframe width=100% height=400px')
+[ladoo-counter](https://govindmenon.ddns.net/cdn/ladoo-counter.html ':include :type=iframe width=100% height=400px')
 
 ## Ganesh's Secretive Fitness Routine
 
@@ -161,9 +161,9 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - UParrow DOWNarrow will change the background music volume
 - Password : dsp
 
-[GaneshOS](https://orangelabs.ddns.net/cdn/GaneshOS.html ':include :type=iframe width=640px height=360px')
+[GaneshOS](https://govindmenon.ddns.net/cdn/GaneshOS.html ':include :type=iframe width=640px height=360px')
 
-[Experience GaneshOS fully](https://orangelabs.ddns.net/cdn/GaneshOS.html)
+[Experience GaneshOS fully](https://govindmenon.ddns.net/cdn/GaneshOS.html)
 
 <h6>[Above project is courtesy of M Kavin]</h6>
 
@@ -177,13 +177,13 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - Survive or face the punishments (the meanings are yet unknown as its or secretive syrian nature)
 - Collect A3B and Ladoo , Dodge everything else!
 
-[LadooRUN](https://orangelabs.ddns.net/cdn/ladoo_run.html ':include :type=iframe width=640px height=360px')
+[LadooRUN](https://govindmenon.ddns.net/cdn/ladoo_run.html ':include :type=iframe width=640px height=360px')
 
-[Experience LadooRUN fully](https://orangelabs.ddns.net/cdn/ladoo_run.html)
+[Experience LadooRUN fully](https://govindmenon.ddns.net/cdn/ladoo_run.html)
 
 > here find LadooRUN V2 :
 
-[Experience LadooRUN V2 fully](https://orangelabs.ddns.net/cdn/ladoo_run-2.html)
+[Experience LadooRUN V2 fully](https://govindmenon.ddns.net/cdn/ladoo_run-2.html)
 
 <h6>[Above project is courtesy of M Kavin]</h6>
 
