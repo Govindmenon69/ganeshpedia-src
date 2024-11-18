@@ -267,7 +267,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
 
-GaneshOS](https://orangepedia.ddns.net/_media/cake-bs.mp4 ':include :type=iframe width=100px height=200px')
+[GaneshOS](https://orangepedia.ddns.net/_media/cake-bs.mp4 ':include :type=iframe width=100px height=200px')
 
 
 ## Nikhilesh Vijayakumar
