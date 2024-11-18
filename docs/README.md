@@ -2,11 +2,19 @@
 
 !> ⚠️ The content below is entirely fictional and created solely for entertainment purposes. Any resemblance to actual persons, living or dead, or real events, entities, organizations, or situations is purely coincidental and unintended. This material does not reflect real-world facts, scientific accuracy, or any genuine beliefs. Any names, places, or occurrences mentioned are imagined, and interpretations should not be taken as factual or literal. Viewer discretion is advised, and readers are encouraged to treat all below content as fictional storytelling only.⚠️
 
-# About Ganesh
+ - Orang
+
+
+
+# The GM friend Group
+
+* Written below are some information about his friends from a personal standpoint.
+
+### Ganesh Krishna Ramachandran
 
 Ganesh is a short, round man with a cheerful demeanor, known for his love of good food. He is the proud owner of the popular restaurant A3B, where he often indulges in his favorite dish, ladoo, a sweet treat he can never resist. His passion for food has made him a well-recognized figure in the community, where he is known for his hearty appetite and joyful nature. Ganesh, of Syrian descent, believes strongly in the power of luck and has an affinity for the number 8, which he considers his lucky charm. His restaurant is both a business and a place of comfort, where he enjoys the pleasures of food surrounded by loyal customers.
 
-## Nicknames of Ganesh
+### Nicknames of Ganesh
 
 - GKR (abr. Ganesh Krishna Ramachandran)
 - Syrian Shake (Thank you Apple autocorrect)
@@ -16,14 +24,14 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 - Syrian President
 - A3B CEO
 
-## Images of Ganesh
+### Images of Ganesh
 
 <img src="_media/ganeshgrab.png"  width="300" height="300">
 <img src="_media/ganesh_gangamstyle.png"  width="300" height="300">
 
 <h6>[Above images is courtesy of Govind Menon]</h6>
 
-## GIFs of Ganesh
+### GIFs of Ganesh
 
 <img src="_media/rgb.gif" width="300" height="300">
 <img src="_media/dsp.gif" width="300" height="300">
@@ -81,7 +89,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <h6>[Above image is courtesy of Govind Menon]</h6>
 
 
-## The Legendary Ladoo Consumption of Ganesh
+### The Legendary Ladoo Consumption of Ganesh
 
  * In the grand tapestry of Syrian leadership, few figures are as beloved as Ganesh, the rotund and jovial supreme leader, famed for his insatiable appetite for ladoos. As the sun rises over the bustling streets of Syria, Ganesh prepares for a day that can only be described as a sweet, sugary odyssey. It’s not just a few ladoos; it’s a staggering number that would make any confectionery proud.
 
@@ -99,11 +107,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
  * And so, the legend of Ganesh and his ladoos continues, with tales of his epic consumption spreading far and wide, inspiring bakers everywhere to push the limits of ladoo production. After all, in the grand world of sweets and leadership, Ganesh knows one simple truth: the bigger the belly, the larger the laugh!
 
-### Visual representation of ladoo eating rate
+#### Visual representation of ladoo eating rate
 
 [ladoo-counter](https://govindmenon.ddns.net/cdn/ladoo-counter.html ':include :type=iframe width=100% height=400px')
 
-## Ganesh's Secretive Fitness Routine
+### Ganesh's Secretive Fitness Routine
 
  * Ganesh's exercise routine is a closely guarded secret, known only to his closest advisors and bakers, and he fiercely protects it from prying eyes. To the public, he attributes his "vitality" to sheer devotion and an unparalleled ladoo diet, but insiders whisper of unusual, highly specialized moves conducted in the privacy of his palace chambers.
 
@@ -117,7 +125,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above clip is courtesy of Kavin Vignesh]</h6>
 
-## Ganesh The Defender Of Syria
+### Ganesh The Defender Of Syria
 
 * Ganesh’s training with weapons is not just a skill—it’s a duty. He believes that by mastering firearms and weaponry, he strengthens both his spirit and his body, equipping himself to protect Syria and his people. Under the guidance of Syrian defense experts, Ganesh took on intense training regimens, mastering everything from traditional firearms to advanced defense techniques, viewing each exercise as both a mental and physical discipline.
 
@@ -129,7 +137,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above clip courtesy of Kavin Vignesh]</h6>
 
-## Ganesh's Enigmatic "Love" Life
+### Ganesh's Enigmatic "Love" Life
 
 * Despite his “gravitational charm” and the magnetic aura that draws people in, Ganesh’s heart has always belonged solely to Syria. Though his quiet charisma and mystery have inspired admiration from many, Ganesh remains unwavering in his dedication to his country. For him, Syria is not just a homeland but a deep, lifelong love that surpasses all others. Every decision, every sacrifice, and even his intense weapons training is in service to Syria’s future and well-being.
 
@@ -147,11 +155,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above image is courtesy of Kavin Vignesh]</h6>
 
-# Secretive Syrian Software and Tech
+### Secretive Syrian Software and Tech
 
  * Listed below are few of the rare syrian tech and software either leaked from Syria or made with leaked document specifications.
 
-## GaneshOS : And It's Orgins
+#### GaneshOS : And It's Orgins
 
  * GaneshOS began as a daring project by M. Kavin, who, after obtaining leaked documents, sought to lift the veil on Syria’s classified operating system architecture. Using these documents, Kavin meticulously reconstructed the OS to replicate the highly secure, state-level system that Ganesh and his inner circle reportedly used in secrecy. Kavin’s version, however, was intended not to guard secrets but to reveal the hidden workings of this elite system to the world.
 
@@ -167,7 +175,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above project is courtesy of M Kavin]</h6>
 
-## LadooRUN : A Leaked Syrian Game
+#### LadooRUN : A Leaked Syrian Game
 
  * "Ladoo Run" is a legendary leaked game that began as a top-secret project intended only for Ganesh’s inner circle. But once it escaped into the public domain, it became an underground sensation. In Ladoo Run, players take on the role of Ganesh himself, navigating through endless levels of tricky Syrian landscapes,
 
@@ -187,9 +195,9 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above project is courtesy of M Kavin]</h6>
 
-## Gaming Consoles Ganesh Edition
+### Gaming Consoles Ganesh Edition
 
-### PS5 Ganesh Edition
+#### PS5 Ganesh Edition
 
 - Introducing the PS5 Gundesh Edition, the ultimate gaming console for fans of Ganesh and ladoos alike! This exclusive edition, inspired by the unique tastes and lifestyle of Ganesh himself, includes a custom ladoo-heating dock that keeps ladoos perfectly warm for mid-game snacks. Designed with extra ladoo storage, it allows gamers to keep an ample ladoo supply on hand for those marathon gaming sessions. Additionally, the PS5 Gundesh Edition comes equipped with a specialized camera, ideal for recording ladoo-eating challenges and streaming them live. With its iconic, playful design and practical ladoo enhancements, the Gundesh Edition takes gaming to a whole new level for ladoo enthusiasts everywhere.
 
@@ -202,7 +210,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <h6>[Above Images are courtesy of M Kavin]</h6>
 
-### Xbox Logo Ganesh Version
+#### Xbox Logo Ganesh Version
   
 <img src="_media/xbox_ganesh_version.png" width="480" height="300">
 
@@ -210,14 +218,6 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 
 <h6>[Above Image is courtesy of M Kavin]</h6>
-
-# Ganesh's Loyal Friend Group
-
-* Ganesh’s circle of friends is as lively and varied as his love for ladoos. Among his closest companions are Anand R., a chess whiz and strategist who offers insights beyond the board, and Raagul Balasubramanian Shobana, whose humor and mobile gaming skills keep Ganesh entertained through even the busiest days. Then there’s Nikhilesh Vijayakumar, a passionate gamer and YouTuber with a precise taste for six-inch-long ice cream, making him the group’s unofficial dessert connoisseur. Govind Sabitha Menon, the developer and designer of Ganeshpedia, rounds out the team with his dedication to capturing every detail of Ganesh’s life.
-
-* Ganesh’s friendships extend far beyond this inner group, and many more of his loyal allies, each with their own unique quirks, will be highlighted below. Together, they make up a dynamic support network, bound by loyalty, laughter, and a shared love of ladoos.
-
-* Written below are some information about his friends from a personal standpoint.
 
 ## Anand R.
 
@@ -233,16 +233,42 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ## Govind Sabitha Menon
 
-* Govind Sabitha Menon is a true confluence of creativity and technical skill. As a developer, designer, artist, and musician, he brings a unique blend of talents to Ganeshpedia. A deep appreciation for both the arts and sciences fuels his work, and his optimistic outlook on science drives his curiosity across STEM fields. Known for his keen sense of detail, Govind not only builds digital spaces but also infuses them with his artistic touch, creating immersive and expressive experiences. When he’s not developing or designing, Govind can often be found enjoying music or playing his own compositions, adding a harmonious layer to his multifaceted personality. His friends recognize him as a creative force whose optimism and dedication make Ganeshpedia a vivid reflection of Ganesh’s world.
+* Govind Sabitha Menon is a true confluence of creativity and technical skill. As a developer, designer, artist, and musician, he brings a unique blend of talents to OrangePedia. A deep appreciation for both the arts and sciences fuels his work, and his optimistic outlook on science drives his curiosity across STEM fields. Known for his keen sense of detail, Govind not only builds digital spaces but also infuses them with his artistic touch, creating immersive and expressive experiences. When he’s not developing or designing, Govind can often be found enjoying music or playing his own compositions, adding a harmonious layer to his multifaceted personality. His friends recognize him as a creative force whose optimism and dedication make OrangePedia a vivid reflection of Ganesh’s world.
 
 <img src="_media/govind2.jpg"  width="480" height="320">
 
 ## Raagul Balasubramanian Shobana
 
-* Raagul Balasubramanian Shobana brings both humor and intellect to Ganesh’s inner circle known for his love of JAM and being a self-proclaimed nerd with a curious mind, he’s fascinated by science, often diving deep into the latest discoveries and theories. Known for his quick wit, Raagul balances his love for learning with his passion for FC Mobile, where he’s a formidable player with impressive skills. His friends admire his blend of humor and intelligence, as Raagul has a way of making even the most complex topics sound exciting and funny. His unique mix of curiosity, gaming expertise, and clever commentary adds an energetic and light-hearted vibe to Ganesh’s crew.
-
 <img src="_media/bs2.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
+
+* Raagul Balasubramanian Shobana brings both humor and intellect to Ganesh’s inner circle known for his love of JAM and being a self-proclaimed nerd with a curious mind, he’s fascinated by science, often diving deep into the latest discoveries and theories. Known for his quick wit, Raagul balances his love for learning with his passion for FC Mobile, where he’s a formidable player with impressive skills. His friends admire his blend of humor and intelligence, as Raagul has a way of making even the most complex topics sound exciting and funny. His unique mix of curiosity, gaming expertise, and clever commentary adds an energetic and light-hearted vibe to Ganesh’s crew.
+
+### Raagul and JAM a Saga
+
+ * Raagul Balasubramanian Shobana is a name synonymous with jam, wit, and an inexplicable knack for turning everyday life into a comedic masterpiece. At the heart of Raagul’s personality is his enduring love for Kissan Jam, a passion so profound that he went through the lengths of legally acquiring Hindustan Unilever’s Kissan Jam. This achievement isn’t just a flex—it’s a declaration that Raagul takes his jam seriously. Friends describe his kitchen as a jam enthusiast's paradise, with shelves lined with Kissan jars of every flavor imaginable, each one gleaming like a trophy of culinary excellence.
+ 
+ * Yet, life isn’t all jam jars and FC Mobile triumphs for Raagul. Known for his sharp intellect and curiosity, he is the quintessential nerd, diving deep into science and tech with an enthusiasm that matches his love for fruity spreads. However, his life has not been without its quirks and missteps. One such incident left him with a laceration on his right hand—an injury sustained during a school mishap involving the infamous Ilakiya Chezhilan. Though the details remain vague, the scar serves as a subtle reminder of his adventures.
+ 
+ * In every sense, Raagul embodies a unique blend of humor, intellect, and passion. Whether he’s experimenting with new jam flavors, dominating FC Mobile leaderboards, or diving into the wonders of science, Raagul’s zest for life is as infectious as it is inspiring. His story reminds us all to find joy in the little things—like a perfectly spread slice of jam on toast.
+ 
+### Raagul's Culinary Innovations
+
+<img src="_media/jam.jpg"  width="480" height="320">
+<h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
+
+ * Among Raagul Balasubramanian Shobana’s many talents, his chocolate cake stands out as a masterpiece that has earned him widespread fame among friends and family. This isn’t just any chocolate cake—it’s a moist, rich, melt-in-your-mouth creation that has left countless taste buds dancing in delight. Crafted with meticulous precision and a secret recipe he guards like a national treasure, Raagul’s chocolate cake is the highlight of every gathering.
+
+ * Some say the magic lies in the high-quality cocoa he insists on importing, while others swear it’s his unique technique of folding in whipped cream for that perfect texture. Of course, being Raagul, he has experimented with adding jam to the mix—his Strawberry Chocolate Explosion Cake is a popular variation. Whether he’s baking it for a friend’s birthday, a celebration, or simply to share the joy of good food, Raagul’s chocolate cake never fails to steal the show.
+
+ * Raagul’s cake-making prowess has even led to friendly rivalries, with his friends jokingly trying to outbake him, only to concede defeat after one bite of his iconic dessert. It’s no exaggeration to say that this cake has become as much a part of Raagul’s identity as his love for jam and his FC Mobile skills.
+
+[GaneshOS](https://orangepedia.ddns.net/_media/crepe-bs.mp4 ':include :type=iframe width=100px height=200px')
+
+<h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
+
+GaneshOS](https://orangepedia.ddns.net/_media/cake-bs.mp4 ':include :type=iframe width=100px height=200px')
+
 
 ## Nikhilesh Vijayakumar
 
@@ -278,7 +304,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ### Niranjan's Famous Audio Recording:
 
-[GaneshOS](https://ganeshpedia.ddns.net/_media/uwu.mp3 ':include :type=iframe width=100px height=200px')
+[AVN lol](https://orangepedia.ddns.net/_media/uwu.mp3 ':include :type=iframe width=100px height=200px')
 
 <img src="_media/avn.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
@@ -343,11 +369,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 
 
-# Authors and Maintainers of GaneshPedia
+# Authors and Maintainers of OrangePedia
 
-The authors and maintainers of Ganeshpedia are a vibrant team of creative minds and storytellers passionate about chronicling the life and experiences of Ganesh, the beloved and larger-than-life supreme leader of Syria. With a unique blend of humor, insight, and cultural commentary, they delve into Ganesh's journey, exploring his whimsical nature, love for ladoos, and the impact of his leadership on his people. Through collaborative efforts, they aim to provide readers with a comprehensive and entertaining exploration of Ganesh’s world, celebrating both his quirks and wisdom. Their commitment to sharing this narrative fosters a deeper understanding of the character and the rich tapestry of stories that surround him, making Ganeshpedia a delightful destination for those curious about this extraordinary figure.
+The authors and maintainers of OrangePedia are a vibrant team of creative minds and storytellers passionate about chronicling the life and experiences of Ganesh, the beloved and larger-than-life supreme leader of Syria. With a unique blend of humor, insight, and cultural commentary, they delve into Ganesh's journey, exploring his whimsical nature, love for ladoos, and the impact of his leadership on his people. Through collaborative efforts, they aim to provide readers with a comprehensive and entertaining exploration of Ganesh’s world, celebrating both his quirks and wisdom. Their commitment to sharing this narrative fosters a deeper understanding of the character and the rich tapestry of stories that surround him, making OrangePedia a delightful destination for those curious about this extraordinary figure.
 
-> GaneshPedia is hosted by Orange Labs GROUP.
+> OrangePedia is hosted by Orange Labs GROUP.
 
 <ins>The people are :</ins>
 
@@ -364,32 +390,32 @@ The authors and maintainers of Ganeshpedia are a vibrant team of creative minds 
 
 ## Raagul Balasubramanian Shobana
 
-Raagul, a self-proclaimed gamer and FC Mobile enthusiast, adds a vibrant flair to the Ganeshpedia team. While he may not consider himself as nerdy as Anand, his passion for gaming is evident in his enthusiasm and creativity. Raagul's ability to connect with characters and experiences allows him to contribute engaging and relatable narratives that resonate with a broad audience.
+Raagul, a self-proclaimed gamer and FC Mobile enthusiast, adds a vibrant flair to the OrangePedia team. While he may not consider himself as nerdy as Anand, his passion for gaming is evident in his enthusiasm and creativity. Raagul's ability to connect with characters and experiences allows him to contribute engaging and relatable narratives that resonate with a broad audience.
 
 <img src="_media/BSRaagul.jpg"  width="300" height="300">
 
 ## Anand R.
 
-Anand R. is the brainy strategist of the team, known for his exceptional skills in chess and his deep love for all things nerdy. With an analytical mind and a penchant for problem-solving, Anand brings a logical approach to the creative process. His passion for chess not only sharpens his strategic thinking but also inspires innovative ideas that infuse the Ganeshpedia narrative with depth and intrigue. Whether he’s analyzing chess moves or brainstorming plot twists, Anand's contributions are always insightful and thought-provoking.
+Anand R. is the brainy strategist of the team, known for his exceptional skills in chess and his deep love for all things nerdy. With an analytical mind and a penchant for problem-solving, Anand brings a logical approach to the creative process. His passion for chess not only sharpens his strategic thinking but also inspires innovative ideas that infuse the OrangePedia narrative with depth and intrigue. Whether he’s analyzing chess moves or brainstorming plot twists, Anand's contributions are always insightful and thought-provoking.
 
 <img src="_media/AnandR.jpg"  width="300" height="300">
 
 ## Nikhilesh Vijayakumar
 
-Nikhilesh, known for his vibrant personality and charisma, is an avid gamer and YouTuber with a quirky obsession for ice cream that is exactly six inches long. His love for gaming infuses the Ganeshpedia project with a fun and energetic spirit. Nikhilesh’s presence on social media amplifies the team's reach, as he shares their adventures with a growing audience of followers. His playful approach to storytelling, combined with his love for ice cream, often leads to hilarious and unexpected plot developments that keep readers engaged.
+Nikhilesh, known for his vibrant personality and charisma, is an avid gamer and YouTuber with a quirky obsession for ice cream that is exactly six inches long. His love for gaming infuses the OrangePedia project with a fun and energetic spirit. Nikhilesh’s presence on social media amplifies the team's reach, as he shares their adventures with a growing audience of followers. His playful approach to storytelling, combined with his love for ice cream, often leads to hilarious and unexpected plot developments that keep readers engaged.
 
 
 <img src="_media/GTA.jpg"  width="300" height="300">
 
 ## Govind Sabitha Menon 
 
-At the heart of Ganeshpedia’s online presence is Govind Sabitha Menon, the talented developer and designer. With a keen eye for aesthetics and a knack for creating user-friendly interfaces, Govind ensures that Ganeshpedia is not only informative but also visually appealing. His technical expertise brings the team's creative visions to life, allowing for seamless navigation and an engaging user experience. Govind’s passion for design and development plays a crucial role in making Ganeshpedia a standout platform in the digital landscape.
+At the heart of OrangePedia’s online presence is Govind Sabitha Menon, the talented developer and designer. With a keen eye for aesthetics and a knack for creating user-friendly interfaces, Govind ensures that OrangePedia is not only informative but also visually appealing. His technical expertise brings the team's creative visions to life, allowing for seamless navigation and an engaging user experience. Govind’s passion for design and development plays a crucial role in making OrangePedia a standout platform in the digital landscape.
 
 <img src="_media/gigagovind.png"  width="300" height="300">
 
 ## Kavin M 
 
-Kavin M is the brilliant co-developer behind Ganeshpedia, bringing his expertise and creativity to help shape this quirky and entertaining platform. With a knack for detail and a passion for crafting engaging content, Kavin works tirelessly to ensure every story, recipe, and anecdote about Ganesh comes to life in the most delightful way. His contributions add depth and humor to Ganeshpedia, making it the ultimate go-to resource for everything about Syria’s legendary ladoo-loving leader!
+Kavin M is the brilliant co-developer behind OrangePedia, bringing his expertise and creativity to help shape this quirky and entertaining platform. With a knack for detail and a passion for crafting engaging content, Kavin works tirelessly to ensure every story, recipe, and anecdote about Ganesh comes to life in the most delightful way. His contributions add depth and humor to OrangePedia, making it the ultimate go-to resource for everything about Syria’s legendary ladoo-loving leader!
 
 <img src="_media/mj.png"  width="300" height="300">
 
