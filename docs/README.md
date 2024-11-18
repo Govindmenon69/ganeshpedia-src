@@ -265,11 +265,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
  
 !> "Please note that the videos below may take some time to load as our servers are currently of lower quality due to limited resources. We appreciate your patience and understanding!" - 𝙶𝙼
 
-[GaneshOS](https://orangepedia.ddns.net/_media/crepe-bs.mp4 ':include :type=iframe width=100px height=200px')
+[BSR Talks](https://orangepedia.ddns.net/_media/crepe-bs.mp4 ':include :type=iframe width=100px height=200px')
 
 <h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
 
-[GaneshOS](https://orangepedia.ddns.net/_media/cake-bs.mp4 ':include :type=iframe width=100px height=200px')
+[BSR Talks](https://orangepedia.ddns.net/_media/cake-bs.mp4 ':include :type=iframe width=100px height=200px')
 
 <h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
 
