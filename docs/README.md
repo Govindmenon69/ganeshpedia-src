@@ -262,12 +262,16 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
  * Some say the magic lies in the high-quality cocoa he insists on importing, while others swear it’s his unique technique of folding in whipped cream for that perfect texture. Of course, being Raagul, he has experimented with adding jam to the mix—his Strawberry Chocolate Explosion Cake is a popular variation. Whether he’s baking it for a friend’s birthday, a celebration, or simply to share the joy of good food, Raagul’s chocolate cake never fails to steal the show.
 
  * Raagul’s cake-making prowess has even led to friendly rivalries, with his friends jokingly trying to outbake him, only to concede defeat after one bite of his iconic dessert. It’s no exaggeration to say that this cake has become as much a part of Raagul’s identity as his love for jam and his FC Mobile skills.
+ 
+!> "Please note that the videos below may take some time to load as our servers are currently of lower quality due to limited resources. We appreciate your patience and understanding!" - 𝙶𝙼
 
 [GaneshOS](https://orangepedia.ddns.net/_media/crepe-bs.mp4 ':include :type=iframe width=100px height=200px')
 
 <h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
 
 [GaneshOS](https://orangepedia.ddns.net/_media/cake-bs.mp4 ':include :type=iframe width=100px height=200px')
+
+<h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
 
 
 ## Nikhilesh Vijayakumar
