@@ -424,15 +424,17 @@ Kavin M is the brilliant co-developer behind OrangePedia, bringing his expertise
 <img src="_media/mj.png"  width="300" height="300">
 
 
-# Special Guests
+## Special Guests
 
-People who became die-hard fans of Ganesh despite never meeting him in real life. These people learnt about Ganesh and Co using Ganeshpedia.
+People who became die-hard fans of Ganesh despite never meeting him in real life. These people learnt about Ganesh and Co using OrangePedia.
 
-## Niranjan Arun Nair
+### Niranjan Arun Nair
 
 Not to be confused with "Niranjan Vijayan," this person is a sports enthusiast with strong opinions that leave no room for neutrality. A die-hard Ronaldo fan, they unapologetically critique Messi, standing firm in their unwavering support for the Portuguese star. While their true passion lies in football, cricket isn’t completely off their radar. Despite not watching the matches, they’re a devoted RCB supporter, often seen cheering for Virat Kohli while taking jabs at Dhoni and the Chennai Super Kings. Their love for RCB is so intense that the famous slogan "Ee Sala Cup Lollipopu" is practically their mantra. Proudly embodying the "sigma" mindset, they’re a unique blend of fervent loyalty, strong preferences, and a bold approach to being a fan. Nicknamed "Orange" or "Naranja" due to its similarity in pronunciation to the Spanish word.
 
 <img src="_media/naranja.jpg"  width="300" height="300">
+
+!> Mk is lying to you about what JP means
 
 
 
