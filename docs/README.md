@@ -6,9 +6,9 @@
 
 
 
-# The GM friend Group
+# Noteable Induviduals
 
-* Written below are some information about his friends from a personal standpoint.
+* Written below are some information about a few noteable induviduals from a personal standpoint.
 
 ### Ganesh Krishna Ramachandran
 
@@ -277,6 +277,17 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 ## Nikhilesh Vijayakumar
 
 * Nikhilesh Vijayakumar is a dynamic presence in Ganesh’s circle, known for his dual passions: gaming and ice cream. An avid gamer, he spends countless hours honing his skills in various games, often sharing his adventures and insights on his popular YouTube channel. Nikhilesh’s love for gaming is matched only by his quirky obsession with ice cream that’s exactly six inches long—a fun fact that his friends have turned into a running joke. With a vibrant personality and a knack for entertaining, he engages his audience with humorous commentary and gameplay tips, making him a beloved figure among his friends and followers alike. Nikhilesh’s unique interests and lively spirit add a delightful flavor to the camaraderie in Ganesh’s group.
+
+## Nikhilesh Vijayakumar's Gaming Channel
+
+ * Nikhilesh Vijayakumar’s gaming channel is a vibrant hub for gamers and casual viewers alike, offering a mix of hilarity, skill, and ice cream-based quirks. Known for his magnetic personality and impeccable comedic timing, his videos range from high-octane gameplay sessions to laugh-out-loud moments of gaming mishaps. His commentary, often punctuated with witty one-liners and unexpected tangents, keeps his audience coming back for more.
+
+ * One of the defining elements of Nikhilesh’s channel is his ongoing joke about ice cream—specifically, his obsession with cones that are exactly six inches long. This running gag has become a staple of his content, inspiring fans to flood his comment section with ice cream emojis and even create memes in his honor. From eating ice cream mid-stream to designing gaming challenges themed around it, Nikhilesh has turned this simple love into a unique branding element that sets his channel apart.
+
+ * Beyond the humor, Nikhilesh’s channel showcases his genuine passion for gaming. He dives into a wide array of titles, from competitive shooters to quirky indie games, offering tips and insights for his viewers. His ability to balance entertainment with authentic gameplay has earned him a loyal fanbase, who not only enjoy his content but actively engage with him in streams and discussions. For Nikhilesh, his gaming channel isn’t just a platform—it’s a community built on shared laughs, great games, and, of course, ice cream.
+
+ * Find below a behind the scenes (BTS) of Nikhilesh recording a gaming video
+
 
 <img src="_media/GTA2.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
