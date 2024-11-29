@@ -445,7 +445,6 @@ Not to be confused with "Niranjan Vijayan," this person is a sports enthusiast w
 
 <img src="_media/naranja.jpg"  width="300" height="300">
 
-!> Mk is lying to you about what JP means
 
 
 
