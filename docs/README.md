@@ -2,7 +2,11 @@
 
 !> ⚠️ The content below is entirely fictional and created solely for entertainment purposes. Any resemblance to actual persons, living or dead, or real events, entities, organizations, or situations is purely coincidental and unintended. This material does not reflect real-world facts, scientific accuracy, or any genuine beliefs. Any names, places, or occurrences mentioned are imagined, and interpretations should not be taken as factual or literal. Viewer discretion is advised, and readers are encouraged to treat all below content as fictional storytelling only.⚠️
 
- - Welcome to OrangePedia
+# Welcome Note
+
+ - Welcome to OrangePedia: The one-stop wiki for all things, inside jokes, where nothing is too random, too obscure, or too embarrassing to be documented. It's like the Wikipedia of hilarity, but with 99% more memes, 100% more awkward moments, and absolutely zero credibility. Enter at your own risk, and don't complain about the experience, We have no funding.
+
+[op-cp](https://govindmenon.ddns.net/cdn/op-cp/index.html ':include :type=iframe width=100% height=400px')
 
 
 
@@ -278,6 +282,9 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 * Nikhilesh Vijayakumar is a dynamic presence in Ganesh’s circle, known for his dual passions: gaming and ice cream. An avid gamer, he spends countless hours honing his skills in various games, often sharing his adventures and insights on his popular YouTube channel. Nikhilesh’s love for gaming is matched only by his quirky obsession with ice cream that’s exactly six inches long—a fun fact that his friends have turned into a running joke. With a vibrant personality and a knack for entertaining, he engages his audience with humorous commentary and gameplay tips, making him a beloved figure among his friends and followers alike. Nikhilesh’s unique interests and lively spirit add a delightful flavor to the camaraderie in Ganesh’s group.
 
+<img src="_media/GTA2.jpg"  width="480" height="320">
+<h6>[Above image is courtesy of Govind Menon]</h6>
+
 ## Nikhilesh Vijayakumar's Gaming Channel
 
  * Nikhilesh Vijayakumar’s gaming channel is a vibrant hub for gamers and casual viewers alike, offering a mix of hilarity, skill, and ice cream-based quirks. Known for his magnetic personality and impeccable comedic timing, his videos range from high-octane gameplay sessions to laugh-out-loud moments of gaming mishaps. His commentary, often punctuated with witty one-liners and unexpected tangents, keeps his audience coming back for more.
@@ -288,9 +295,10 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
  * Find below a behind the scenes (BTS) of Nikhilesh recording a gaming video
 
+ <img src="_media/kp-game.gif"  width="480" height="320">
 
-<img src="_media/GTA2.jpg"  width="480" height="320">
-<h6>[Above image is courtesy of Govind Menon]</h6>
+<h6>[Above gif is courtesy of Govind Menon]</h6>
+
 
 ## Sushil Haribabu
 
