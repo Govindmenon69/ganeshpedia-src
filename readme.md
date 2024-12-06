@@ -1,2 +1,1 @@
-# An opensource project designed and developed to popularize and mass produce ganesh memes!
-
+Well then, welcome to Orangepedia!
