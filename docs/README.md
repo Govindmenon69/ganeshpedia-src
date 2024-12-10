@@ -9,7 +9,6 @@
 [op-cp](https://govindmenon.ddns.net/cdn/op-cp/index.html ':include :type=iframe width=100% height=400px')
 
 
-
 # Noteable Induviduals
 
 * Written below are some information about a few noteable induviduals from a personal standpoint.
@@ -40,7 +39,9 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <img src="_media/rgb.gif" width="300" height="300">
 <img src="_media/dsp.gif" width="300" height="300">
 <img src="_media/a2b.gif" width="300" height="300">
-
+<img src="_media/hallganesh.gif" width="300" height="300">
+<img src="_media/ganeshloading.gif" width="300" height="300">
+<img src="_media/ganesh-explode.gif" width="300" height="300">
 <h6>[Above GIFs is courtesy of Kavin M]</h6>
 
 
@@ -86,7 +87,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
  * In the end, Ganesh transformed into a revered Syrian, embodying both the divine qualities of Lord Ganesha and the spirit of community through his love for ladoos. He taught that sweetness in life could be found not only in indulgence but also in knowledge, sharing, and the bonds formed through love and devotion. And thus, his legacy lived on, forever entwined with the ladoos that had once filled his days.
 
- > Find below Ganesh preaching 
+ > Find below Ganesh preaching
 
  <img src="_media/ganeshpreaching.jpeg"  width="300" height="300">
 
@@ -169,7 +170,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 <ins>Shorcuts:</ins>
 
-- PGup and PGdn will change the background 
+- PGup and PGdn will change the background
 - UParrow DOWNarrow will change the background music volume
 - Password : dsp
 
@@ -215,7 +216,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <h6>[Above Images are courtesy of M Kavin]</h6>
 
 #### Xbox Logo Ganesh Version
-  
+
 <img src="_media/xbox_ganesh_version.png" width="480" height="300">
 
 - In a legendary but short-lived partnership, Ganesh himself struck a deal with Microsoft to create a unique Xbox logo for his universe. This logo, blending the sleek design of the Xbox with Ganesh's unmistakable ladoo imagery, was intended as a tribute to his love for gaming and, of course, ladoos. The partnership was set to launch with much fanfare, with promotional events and even a Ganesh-themed Xbox console in the works. However, things took a funny twist when Ganesh reportedly demanded the logo include "more ladoo essence," which led to multiple redesigns that kept pushing the limits of Microsoft’s creativity—and patience. Rumor has it that Ganesh’s insistence on adding a ladoo-warming feature to the Xbox itself was the final straw. After a series of misunderstandings and increasingly bizarre modifications, the project was quietly shelved, leaving fans amused and speculating over what might have been. The Ganesh-Xbox logo remains a cult symbol, capturing the spirit of Ganesh’s bold but often unconventional ideas.
@@ -251,11 +252,11 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 ### Raagul and JAM a Saga
 
  * Raagul Balasubramanian Shobana is a name synonymous with jam, wit, and an inexplicable knack for turning everyday life into a comedic masterpiece. At the heart of Raagul’s personality is his enduring love for Kissan Jam, a passion so profound that he went through the lengths of legally acquiring Hindustan Unilever’s Kissan Jam. This achievement isn’t just a flex—it’s a declaration that Raagul takes his jam seriously. Friends describe his kitchen as a jam enthusiast's paradise, with shelves lined with Kissan jars of every flavor imaginable, each one gleaming like a trophy of culinary excellence.
- 
+
  * Yet, life isn’t all jam jars and FC Mobile triumphs for Raagul. Known for his sharp intellect and curiosity, he is the quintessential nerd, diving deep into science and tech with an enthusiasm that matches his love for fruity spreads. However, his life has not been without its quirks and missteps. One such incident left him with a laceration on his left hand—an injury sustained during a school mishap involving the infamous Ilakiya Chezhilan. Though the details remain vague, the scar is a subtle reminder of his adventures.
- 
+
  * In every sense, Raagul embodies a unique blend of humor, intellect, and passion. Whether he’s experimenting with new jam flavors, dominating FC Mobile leaderboards, or diving into the wonders of science, Raagul’s zest for life is as infectious as it is inspiring. His story reminds us to find joy in the little things—like a perfectly spread slice of jam on toast.
- 
+
 ### Raagul's Culinary Innovations
 
 <img src="_media/jam.jpg"  width="480" height="320">
@@ -266,7 +267,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
  * Some say the magic lies in the high-quality cocoa he insists on importing, while others swear it’s his unique technique of folding in whipped cream for that perfect texture. Of course, being Raagul, he has experimented with adding jam to the mix—his Strawberry Chocolate Explosion Cake is a popular variation. Whether he’s baking it for a friend’s birthday, a celebration, or simply to share the joy of good food, Raagul’s chocolate cake never fails to steal the show.
 
  * Raagul’s cake-making prowess has even led to friendly rivalries, with his friends jokingly trying to outbake him, only to concede defeat after one bite of his iconic dessert. It’s no exaggeration to say that this cake has become as much a part of Raagul’s identity as his love for jam and his FC Mobile skills.
- 
+
 !> "Please note that the videos below may take some time to load as our servers are currently of lower quality due to limited resources. We appreciate your patience and understanding!" - 𝙶𝙼
 
 [BSR Talks](https://orangepedia.ddns.net/_media/crepe-bs.mp4 ':include :type=iframe width=100px height=200px')
@@ -307,7 +308,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <img src="_media/srh.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
 
-## Chandramoulee Sai P 
+## Chandramoulee Sai P
 
  * Chandramoulee Sai P., affectionately known as N. Moulee, is a charismatic YouTuber who has carved a niche for himself in the world of Roblox through his channel, VelocRB. With an engaging personality and a knack for creating entertaining content, N. Moulee captivates his audience with gameplay, tips, and immersive experiences. However, his playful nature has led to some bizarre rumors, including a humorous, albeit dark, reputation for “kidnapping” and storing virtual characters in his basement—a quirky way to describe his in-game antics that have sparked playful banter among his friends and fans. Despite these exaggerated tales, N. Moulee is primarily known for his creativity and humor, making him a memorable figure in Ganesh’s expansive circle of friends.
 
@@ -441,13 +442,13 @@ Nikhilesh, known for his vibrant personality and charisma, is an avid gamer and 
 
 <img src="_media/GTA.jpg"  width="300" height="300">
 
-## Govind Sabitha Menon 
+## Govind Sabitha Menon
 
 At the heart of OrangePedia’s online presence is Govind Sabitha Menon, the talented developer and designer. With a keen eye for aesthetics and a knack for creating user-friendly interfaces, Govind ensures that OrangePedia is not only informative but also visually appealing. His technical expertise brings the team's creative visions to life, allowing for seamless navigation and an engaging user experience. Govind’s passion for design and development plays a crucial role in making OrangePedia a standout platform in the digital landscape.
 
 <img src="_media/gigagovind.png"  width="300" height="300">
 
-## Kavin M 
+## Kavin M
 
 Kavin M is the brilliant co-developer behind OrangePedia, bringing his expertise and creativity to help shape this quirky and entertaining platform. With a knack for detail and a passion for crafting engaging content, Kavin works tirelessly to ensure every story, recipe, and anecdote about Ganesh comes to life in the most delightful way. His contributions add depth and humor to OrangePedia, making it the ultimate go-to resource for everything about Syria’s legendary ladoo-loving leader!
 
