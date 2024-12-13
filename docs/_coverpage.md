@@ -1,6 +1,5 @@
-
 ![logo](_media/icon.png)
 
-# Orangepedia  <small>  V:0.5A</small>
+# Orangepedia  <small>v0.5</small>
 
-> Empowering change , One stupid joke at a time! 
+> Documenting Nonsense, Made with 🧡 by <a href="https://orangelabs.ddns.net">orangelabs</a>

@@ -13,7 +13,7 @@
 
 * Written below are some information about a few noteable induviduals from a personal standpoint.
 
-### Ganesh Krishna Ramachandran
+## Ganesh Krishna Ramachandran
 
 Ganesh is a short, round man with a cheerful demeanor, known for his love of good food. He is the proud owner of the popular restaurant A3B, where he often indulges in his favorite dish, ladoo, a sweet treat he can never resist. His passion for food has made him a well-recognized figure in the community, where he is known for his hearty appetite and joyful nature. Ganesh, of Syrian descent, believes strongly in the power of luck and has an affinity for the number 8, which he considers his lucky charm. His restaurant is both a business and a place of comfort, where he enjoys the pleasures of food surrounded by loyal customers.
 
@@ -268,13 +268,14 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
  * Raagul’s cake-making prowess has even led to friendly rivalries, with his friends jokingly trying to outbake him, only to concede defeat after one bite of his iconic dessert. It’s no exaggeration to say that this cake has become as much a part of Raagul’s identity as his love for jam and his FC Mobile skills.
 
-!> "Please note that the videos below may take some time to load as our servers are currently of lower quality due to limited resources. We appreciate your patience and understanding!" - 𝙶𝙼
+!> "Please note that the videos below may take some time to load as our servers are currently of lower quality due to limited resources. We appreciate your patience and understanding!" - Govind Menon
 
-[BSR Talks](https://orangepedia.ddns.net/_media/crepe-bs.mp4 ':include :type=iframe width=100px height=200px')
+
+<video src="https://orangepedia.ddns.net/_media/crepe-bs.mp4" controls width=400px height=500px ></video>
 
 <h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
 
-[BSR Talks](https://orangepedia.ddns.net/_media/cake-bs.mp4 ':include :type=iframe width=100px height=200px')
+<video src="https://orangepedia.ddns.net/_media/cake-bs.mp4" controls width=400px height=500px ></video>
 
 <h6>[Above image is courtesy of Raagul Balasubramanian Shobana]</h6>
 
@@ -308,23 +309,12 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 <img src="_media/srh.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
 
-## Chandramoulee Sai P
+## Chandramoulee Sai S
 
  * Chandramoulee Sai P., affectionately known as N. Moulee, is a charismatic YouTuber who has carved a niche for himself in the world of Roblox through his channel, VelocRB. With an engaging personality and a knack for creating entertaining content, N. Moulee captivates his audience with gameplay, tips, and immersive experiences. However, his playful nature has led to some bizarre rumors, including a humorous, albeit dark, reputation for “kidnapping” and storing virtual characters in his basement—a quirky way to describe his in-game antics that have sparked playful banter among his friends and fans. Despite these exaggerated tales, N. Moulee is primarily known for his creativity and humor, making him a memorable figure in Ganesh’s expansive circle of friends.
 
 <img src="_media/veloc.jpg"  width="480" height="320">
-<h6>[Above image is courtesy of Govind Menon]</h6>
-
-###
-
-
-
-
-
-
-
-
-
+<h6>[Above image is courtesy of Chandramoulee Sai S]</h6>
 
 ## Kavin Vignesh
 
@@ -339,7 +329,7 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 ### Niranjan's Famous Audio Recording:
 
-[AVN lol](https://orangepedia.ddns.net/_media/uwu.mp3 ':include :type=iframe width=100px height=200px')
+<audio src="https://orangepedia.ddns.net/_media/uwu.mp3" controls></audio>
 
 <img src="_media/avn.jpg"  width="480" height="320">
 <h6>[Above image is courtesy of Govind Menon]</h6>
@@ -391,26 +381,13 @@ Ganesh is a short, round man with a cheerful demeanor, known for his love of goo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Authors and Maintainers of OrangePedia
+# The OrangePedia Credits
 
 The authors and maintainers of OrangePedia are a vibrant team of creative minds and storytellers passionate about chronicling the life and experiences of Ganesh, the beloved and larger-than-life supreme leader of Syria. With a unique blend of humor, insight, and cultural commentary, they delve into Ganesh's journey, exploring his whimsical nature, love for ladoos, and the impact of his leadership on his people. Through collaborative efforts, they aim to provide readers with a comprehensive and entertaining exploration of Ganesh’s world, celebrating both his quirks and wisdom. Their commitment to sharing this narrative fosters a deeper understanding of the character and the rich tapestry of stories that surround him, making OrangePedia a delightful destination for those curious about this extraordinary figure.
 
-> OrangePedia is hosted by Orange Labs GROUP.
+> OrangePedia is hosted and presented to you by Orange Labs GROUP.
 
-<ins>The people are :</ins>
+<ins>The Writing team are :</ins>
 
 - Raagul Balasubramanian Shobana
 - Anand R.
@@ -418,48 +395,50 @@ The authors and maintainers of OrangePedia are a vibrant team of creative minds 
 - Govind Sabitha Menon
 - Kavin M
 
-<ins>Special Thanks to :</ins>
+<ins>The Clip Providers are :</ins>
 
 - Kavin Vignesh [For providing certain clips]
 - Prithvi B Manica [For providing certain clips]
 
-## Raagul Balasubramanian Shobana
+## About the Team
+
+### Raagul Balasubramanian Shobana
 
 Raagul, a self-proclaimed gamer and FC Mobile enthusiast, adds a vibrant flair to the OrangePedia team. While he may not consider himself as nerdy as Anand, his passion for gaming is evident in his enthusiasm and creativity. Raagul's ability to connect with characters and experiences allows him to contribute engaging and relatable narratives that resonate with a broad audience.
 
 <img src="_media/BSRaagul.jpg"  width="300" height="300">
 
-## Anand R.
+### Anand R.
 
 Anand R. is the brainy strategist of the team, known for his exceptional skills in chess and his deep love for all things nerdy. With an analytical mind and a penchant for problem-solving, Anand brings a logical approach to the creative process. His passion for chess not only sharpens his strategic thinking but also inspires innovative ideas that infuse the OrangePedia narrative with depth and intrigue. Whether he’s analyzing chess moves or brainstorming plot twists, Anand's contributions are always insightful and thought-provoking.
 
 <img src="_media/AnandR.jpg"  width="300" height="300">
 
-## Nikhilesh Vijayakumar
+### Nikhilesh Vijayakumar
 
 Nikhilesh, known for his vibrant personality and charisma, is an avid gamer and YouTuber with a quirky obsession for ice cream that is exactly six inches long. His love for gaming infuses the OrangePedia project with a fun and energetic spirit. Nikhilesh’s presence on social media amplifies the team's reach, as he shares their adventures with a growing audience of followers. His playful approach to storytelling, combined with his love for ice cream, often leads to hilarious and unexpected plot developments that keep readers engaged.
 
 
 <img src="_media/GTA.jpg"  width="300" height="300">
 
-## Govind Sabitha Menon
+### Govind Sabitha Menon
 
 At the heart of OrangePedia’s online presence is Govind Sabitha Menon, the talented developer and designer. With a keen eye for aesthetics and a knack for creating user-friendly interfaces, Govind ensures that OrangePedia is not only informative but also visually appealing. His technical expertise brings the team's creative visions to life, allowing for seamless navigation and an engaging user experience. Govind’s passion for design and development plays a crucial role in making OrangePedia a standout platform in the digital landscape.
 
 <img src="_media/gigagovind.png"  width="300" height="300">
 
-## Kavin M
+### Kavin M
 
 Kavin M is the brilliant co-developer behind OrangePedia, bringing his expertise and creativity to help shape this quirky and entertaining platform. With a knack for detail and a passion for crafting engaging content, Kavin works tirelessly to ensure every story, recipe, and anecdote about Ganesh comes to life in the most delightful way. His contributions add depth and humor to OrangePedia, making it the ultimate go-to resource for everything about Syria’s legendary ladoo-loving leader!
 
 <img src="_media/mj.png"  width="300" height="300">
 
 
-## Special Guests
+# Special Guests
 
 People who became die-hard fans of Ganesh despite never meeting him in real life. These people learnt about Ganesh and Co using OrangePedia.
 
-### Niranjan Arun Nair
+## Niranjan Arun Nair
 
 Not to be confused with "Niranjan Vijayan," this person is a sports enthusiast with strong opinions that leave no room for neutrality. A die-hard Ronaldo fan, they unapologetically critique Messi, standing firm in their unwavering support for the Portuguese star. While their true passion lies in football, cricket isn’t completely off their radar. Despite not watching the matches, they’re a devoted RCB supporter, often seen cheering for Virat Kohli while taking jabs at Dhoni and the Chennai Super Kings. Their love for RCB is so intense that the famous slogan "Ee Sala Cup Lollipopu" is practically their mantra. Proudly embodying the "sigma" mindset, they’re a unique blend of fervent loyalty, strong preferences, and a bold approach to being a fan. Nicknamed "Orange" or "Naranja" due to its similarity in pronunciation to the Spanish word.
 
