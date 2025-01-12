@@ -9,9 +9,9 @@
 [op-cp](https://govindmenon.ddns.net/cdn/op-cp/index.html ':include :type=iframe width=100% height=400px')
 
 
-# Notable Induviduals 
+# Notable Individuals 
 
-* Written below are some information about a few noteable Induviduals from a personal standpoint.
+* Written below are some information about a few noteable Individuals from a personal standpoint.
 
 ## Ganesh Krishna Ramachandran
 
